@@ -23,6 +23,11 @@
 - commit
 - revert
 - branch
+- log --graph
+- reset --[hard | soft | mixed]
+  - 주의: --hard 옵션의 경우 되돌아간 시점 이후 모든 버전은 삭제됨
+- revert
+  - 과거 시점으로 되돌아감, 소스코드는 모두 그대로 유지, hisory가 쌓이므로 추적 가능
 
 ## 원격 저장소 활용
 - push

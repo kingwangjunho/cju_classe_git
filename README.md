@@ -19,7 +19,7 @@
 - git 초기화 하기
 - 경고 메시지
 
-'''
+'''{code}
 $ git add hello.py
 hint: core.useBuiltinFSMonitor will be deprecated soon; use core.fsmonitor instead
 hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
@@ -30,7 +30,7 @@ hint: Disable this message with "git config advice.useCoreFSMonitorConfig false"
 - 타자기 동영상 [유튜브 바로가기](https://youtu.be/FkUXn5bOwzk)
 
 
-'''
+'''{code}
 warning: LF will be replaced by CRLF in hello.py.
 The file will have its original line endings in your working directory
 '''

@@ -17,6 +17,7 @@
 ## 개인 컴퓨터 세팅
 - 작업 디렉토리 만들기
 - git 초기화 하기
+- git config
 - 경고 메시지
 
 ```{code}
@@ -38,6 +39,8 @@ The file will have its original line endings in your working directory
 ## Git 명령어
 - add
 - commit
+- reset (staging 되돌리기)
+- reset --soft (commit 되돌리기)
 - revert
 - branch
 - checkout
